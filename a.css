@@ -1,0 +1,44 @@
+
+#title {
+    margin-left: 30px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    background-color: black;
+}
+
+#t2 {
+    justify-content: center;
+    display: flex;
+    color: black;
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+#content {
+    width: 100%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 29rem;
+}
+
+.btn-group {
+    display: flex margin-top:0px;
+}
+
+
+
+#gr {
+    display: flex;
+    margin-left: 400px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#txtt {
+    width: 200px;
+    display: flex;
+    margin-top: 10px;
+}
